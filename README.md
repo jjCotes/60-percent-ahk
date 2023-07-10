@@ -6,20 +6,21 @@
     This repository works as a cache for AutoHotKey scripts that are used mostly on a 60% keyboard that has no support for QMK, Main.ahk is the current setup in use 
 </p>
 
-<h3 align="center">About AutoHotKey</h2>
+<h3 align="center">About AutoHotKey</h3>
 <p>
     If you ask something like "can I program something in AHK that...?" probably the answer is yes
 </p>
+
+| Matter        | Description                                   | link                                                                     |
+| ------------- | --------------------------------------------- | ------------------------------------------------------------------------ |
+| Why AHK       | Taran Van Hemert from LTT introduction to AHK | <a href="https://youtu.be/Arn8ExQ2Gjg">[link]</a>                        |
+| Main page     | autohotkey.com                                | <a href="https://www.autohotkey.com">[link]</a>                          |
+| Download      | Installer                                     | <a href="https://www.autohotkey.com/download/ahk-install.exe">[link]</a> |
+| Documentation | Beggining tutorial                            | <a href="https://www.autohotkey.com/docs/v1/Tutorial.htm">[link]</a>     |
+
 <p>
     Scrips in this repository are intented for AHK v1 <a href="https://www.autohotkey.com/download/ahk-install.exe">[Downlaod link]</a>
 </p>
-
-| Matter        | Description                             | link                                                                     |
-| ------------- | --------------------------------------- | ------------------------------------------------------------------------ |
-| Why AHK       | `AppsKey & ,:: Send {<}`                | <a href="https://youtu.be/Arn8ExQ2Gjg">[link]</a>                        |
-| Main page     | `AppsKey & ,:: Send {<}`                | <a href="https://www.autohotkey.com">[link]</a>                          |
-| Download      | `AppsKey & .:: Send {>}`                | <a href="https://www.autohotkey.com/download/ahk-install.exe">[link]</a> |
-| Documentation | `AppsKey & s:: Send {PrintScreen}`      | <a href="https://www.autohotkey.com/docs/v1/Tutorial.htm">[link]</a>     |
 
 
 
