@@ -7,7 +7,6 @@
 </p>
 
 <h3 align="center">About AutoHotKey</h2>
-
 <p>
     If you ask something like "can I program something in AHK that...?" probably the answer is yes
 </p>
@@ -21,9 +20,8 @@
 | Main page     | `AppsKey & ,:: Send {<}`                | <a href="https://www.autohotkey.com">[link]</a>                          |
 | Download      | `AppsKey & .:: Send {>}`                | <a href="https://www.autohotkey.com/download/ahk-install.exe">[link]</a> |
 | Documentation | `AppsKey & s:: Send {PrintScreen}`      | <a href="https://www.autohotkey.com/docs/v1/Tutorial.htm">[link]</a>     |
-| `AppsKey` +   | `AppsKey & b:: Send {Volume_Up}`        | `Volume_Up`   |
-| `AppsKey` +   | `AppsKey & v:: Send {Volume_Down}`      | `Volume_Down` |
-| `AppsKey` +   | `AppsKey & -:: Send {Media_Play_Pause}` | `Play_Pause`  |
+
+
 
 
 <h2 align="center">MediaNav.ahk</h2>
@@ -41,6 +39,8 @@
 | `AppsKey` + `-` | `AppsKey & -:: Send {Media_Play_Pause}` | `Play_Pause`  | ✔      |
 
 
+
+
 <h2 align="center">Numpad+.ahk</h2>
 <p align="justify"> 
     This code creates shortcuts for better navigation using the Numpad on a full-size keyboard 
@@ -49,6 +49,7 @@
 <div align="center">
     <img src="Resource_Img/Numpad+.png", width="350">
 </div><br>
+
 
 
 
@@ -153,6 +154,8 @@
 | .^=              | `::.^=::{U+2213}`              | ≙         | ❔     |
 | .?=              | `::.?=::{U+225F}`              | ≟         | ✔      |
 | .+-              | `::.+-::{U+00B1}`              | ±         | ✔      |
+
+
 
 
 <h2 align="center">ES_Support-to_EN.ahk</h2>
