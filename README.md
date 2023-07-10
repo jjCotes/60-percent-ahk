@@ -47,7 +47,7 @@
 </p>
 
 <div align="center">
-    <img src="Resource_Img/Numpad+.png", width="500">
+    <img src="Resource_Img/Numpad+.png", width="350">
 </div><br>
 
 
