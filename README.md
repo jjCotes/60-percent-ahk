@@ -13,6 +13,7 @@
 </p>
 
 <h3>Greek letters</h3>
+
 | Shortcut      | Line of Code          | Character | Status    |
 | ------------- | --------------------- | --------- | --------- |
 | .alpha        | ::.alpha::{U+03B1}    |           |          |
