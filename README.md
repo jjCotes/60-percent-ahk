@@ -34,9 +34,9 @@
 | --------------- | --------------------------------------- | ------------- | ------ |
 | `AppsKey` + `,` | `AppsKey & ,:: Send {<}`                | `<`           | ✔      |
 | `AppsKey` + `-` | `AppsKey & .:: Send {>}`                | `>`           | ✔      |
-| `AppsKey` + `s` | `AppsKey & s:: Send {PrintScreen}`      | `PrtSc`       | ✔      |
-| `AppsKey` + `b` | `AppsKey & b:: Send {Volume_Up}`        | `Volume_Up`   | ✔      |
-| `AppsKey` + `v` | `AppsKey & v:: Send {Volume_Down}`      | `Volume_Down` | ✔      |
+| `AppsKey` + `S` | `AppsKey & s:: Send {PrintScreen}`      | `PrtSc`       | ✔      |
+| `AppsKey` + `B` | `AppsKey & b:: Send {Volume_Up}`        | `Volume_Up`   | ✔      |
+| `AppsKey` + `V` | `AppsKey & v:: Send {Volume_Down}`      | `Volume_Down` | ✔      |
 | `AppsKey` + `-` | `AppsKey & -:: Send {Media_Play_Pause}` | `Play_Pause`  | ✔      |
 
 
