@@ -1,5 +1,5 @@
 <h1 align="center">AHK-helper</h1>
-<p align="center">
+<p align="right">
     <a href="https://www.instagram.com/jj_cotes/"><strong>José J. Cotes A.</strong></a> <!--https://github.com/jjCotes/-->
 </p>
 <p>
