@@ -16,36 +16,36 @@
 
 | Shortcut      | Line of Code          | Character | Status    |
 | ------------- | --------------------- | --------- | --------- |
-| .alpha        | ::.alpha::{U+03B1}    |           | ✔         |
-| .beta         | ::.beta::{U+03B2}     |           | ✔         |
-| .gamma        | ::.gamma::{U+03B3}    |           | ✔         |
-| .delta        | ::.delta::{U+03B4}    |           | ✔         |
-| .epsilon      | ::.epsilon::{U+03B5}  |           | ✔         |
-| .zeta         | ::.zeta::{U+03B6}     |           | ✔         |
-| .eta          | ::.eta::{U+03B7}      |           | ✔         |
-| .theta        | ::.theta::{U+03B8}    |           | ✔         |
-| .iota         | ::.iota::{U+03B9}     |           | ✔         |
-| .kappa        | ::.kappa::{U+03BA}    |           | ✔         |
-| .lambda       | ::.lambda::{U+03BB}   |           | ✔         |
-| .mu           | ::.mu::{U+03BC}       |           | ✔         |
-| .nu           | ::.nu::{U+03BD}       |           | ✔         |
-| .xi           | ::.xi::{U+03BE}       |           | ✔         |
-| .omikron      | ::.omikron::{U+03BF}  |           | ✔         |
-| .pi           | ::.pi::{U+03C0}       |           | ✔         |
-| .rho          | ::.rho::{U+03C1}      |           | ✔         |
-| .sigma        | ::.sigma::{U+03C3}    |           | ✔         |
-| .tau          | ::.tau::{U+03C4}      |           | ✔         |
-| .upsilon      | ::.upsilon::{U+03C5}  |           | ✔         |
-| .phi          | ::.phi::{U+03C6}      |           | ✔         |
-| .chi          | ::.chi::{U+03C7}      |           | ✔         |
-| .psi          | ::.psi::{U+03C8}      |           | ✔         |
-| .omega        | ::.omega::{U+03C9}    |           | ✔         |
-| .stigma       | ::.stigma::{U+03DB}   |           | Commented |
-| .digamma      | ::.digamma::{U+03DD}  |           | Commented |
-| .koppa        | ::.koppa::{U+03DF}    |           | Commented |
-| .sampi        | ::.sampi::{U+03E1}    |           | Commented |
-| .sho          | ::.sho::{U+03F8}      |           | Commented |
-| .san          | ::.san::{U+03FB}      |           | Commented |
+| .alpha        | ::.alpha::{U+03B1}    | ɑ         | ✔         |
+| .beta         | ::.beta::{U+03B2}     | β         | ✔         |
+| .gamma        | ::.gamma::{U+03B3}    | γ         | ✔         |
+| .delta        | ::.delta::{U+03B4}    | δ         | ✔         |
+| .epsilon      | ::.epsilon::{U+03B5}  | ε         | ✔         |
+| .zeta         | ::.zeta::{U+03B6}     | ζ         | ✔         |
+| .eta          | ::.eta::{U+03B7}      | η         | ✔         |
+| .theta        | ::.theta::{U+03B8}    | θ         | ✔         |
+| .iota         | ::.iota::{U+03B9}     | ι         | ✔         |
+| .kappa        | ::.kappa::{U+03BA}    | κ         | ✔         |
+| .lambda       | ::.lambda::{U+03BB}   | λ         | ✔         |
+| .mu           | ::.mu::{U+03BC}       | μ         | ✔         |
+| .nu           | ::.nu::{U+03BD}       | ν         | ✔         |
+| .xi           | ::.xi::{U+03BE}       | ξ         | ✔         |
+| .omikron      | ::.omikron::{U+03BF}  | ο         | ✔         |
+| .pi           | ::.pi::{U+03C0}       | π         | ✔         |
+| .rho          | ::.rho::{U+03C1}      | ρ         | ✔         |
+| .sigma        | ::.sigma::{U+03C3}    | σ         | ✔         |
+| .tau          | ::.tau::{U+03C4}      | τ         | ✔         |
+| .upsilon      | ::.upsilon::{U+03C5}  | υ         | ✔         |
+| .phi          | ::.phi::{U+03C6}      | φ         | ✔         |
+| .chi          | ::.chi::{U+03C7}      | χ         | ✔         |
+| .psi          | ::.psi::{U+03C8}      | ψ         | ✔         |
+| .omega        | ::.omega::{U+03C9}    | ω         | ✔         |
+| .stigma       | ::.stigma::{U+03DB}   | ϛ         | Commented |
+| .digamma      | ::.digamma::{U+03DD}  | ϝ         | Commented |
+| .koppa        | ::.koppa::{U+03DF}    | ϟ         | Commented |
+| .sampi        | ::.sampi::{U+03E1}    | ϡ         | Commented |
+| .sho          | ::.sho::{U+03F8}      | ϸ         | Commented |
+| .san          | ::.san::{U+03FB}      | ϻ         | Commented |
 
 
 
@@ -54,36 +54,36 @@
 
 | Shortcut      | Line of Code          | Character | Status    |
 | ------------- | --------------------- | --------- | --------- |
-| ,alpha        | ::,alpha::{U+0391}    |           | ✔         |
-| ,beta         | ::,beta::{U+0392}     |           | ✔         |
-| ,gamma        | ::,gamma::{U+0393}    |           | ✔         |
-| ,delta        | ::,delta::{U+0394}    |           | ✔         |
-| ,epsilon      | ::,epsilon::{U+0395}  |           | ✔         |
-| ,zeta         | ::,zeta::{U+0396}     |           | ✔         |
-| ,eta          | ::,eta::{U+0397}      |           | ✔         |
-| ,theta        | ::,theta::{U+0398}    |           | ✔         |
-| ,iota         | ::,iota::{U+0399}     |           | ✔         |
-| ,kappa        | ::,kappa::{U+039A}    |           | ✔         |
-| ,lambda       | ::,lambda::{U+039B}   |           | ✔         |
-| ,mu           | ::,mu::{U+039C}       |           | ✔         |
-| ,nu           | ::,nu::{U+039D}       |           | ✔         |
-| ,xi           | ::,xi::{U+039E}       |           | ✔         |
-| ,omikron      | ::,omikron::{U+039F}  |           | ✔         |
-| ,pi           | ::,pi::{U+03A0}       |           | ✔         |
-| ,rho          | ::,rho::{U+03A1}      |           | ✔         |
-| ,sigma        | ::,sigma::{U+03A3}    |           | ✔         |
-| ,tau          | ::,tau::{U+03A4}      |           | ✔         |
-| ,upsilon      | ::,upsilon::{U+03A5}  |           | ✔         |
-| ,phi          | ::,phi::{U+03A6}      |           | ✔         |
-| ,chi          | ::,chi::{U+03A7}      |           | ✔         |
-| ,psi          | ::,psi::{U+03A8}      |           | ✔         |
-| ,omega        | ::,omega::{U+03A9}    |           | ✔         |
-| ,stigma       | ::,stigma::{U+03BB}   |           | Commented |
-| ,digamma      | ::,digamma::{U+03BD}  |           | Commented |
-| ,koppa        | ::,koppa::{U+03BF}    |           | Commented |
-| ,sampi        | ::,sampi::{U+03C1}    |           | Commented |
-| ,sho          | ::,sho::{U+03D8}      |           | Commented |
-| ,san          | ::,san::{U+03DB}      |           | Commented |
+| ,alpha        | ::,alpha::{U+0391}    | Α         | ✔         |
+| ,beta         | ::,beta::{U+0392}     | β         | ✔         |
+| ,gamma        | ::,gamma::{U+0393}    | Γ         | ✔         |
+| ,delta        | ::,delta::{U+0394}    | Δ         | ✔         |
+| ,epsilon      | ::,epsilon::{U+0395}  | Ε         | ✔         |
+| ,zeta         | ::,zeta::{U+0396}     | Ζ         | ✔         |
+| ,eta          | ::,eta::{U+0397}      | Η         | ✔         |
+| ,theta        | ::,theta::{U+0398}    | Θ         | ✔         |
+| ,iota         | ::,iota::{U+0399}     | Ι         | ✔         |
+| ,kappa        | ::,kappa::{U+039A}    | Κ         | ✔         |
+| ,lambda       | ::,lambda::{U+039B}   | Λ         | ✔         |
+| ,mu           | ::,mu::{U+039C}       | Μ         | ✔         |
+| ,nu           | ::,nu::{U+039D}       | Ν         | ✔         |
+| ,xi           | ::,xi::{U+039E}       | Ξ         | ✔         |
+| ,omikron      | ::,omikron::{U+039F}  | Ο         | ✔         |
+| ,pi           | ::,pi::{U+03A0}       | Π         | ✔         |
+| ,rho          | ::,rho::{U+03A1}      | Ρ         | ✔         |
+| ,sigma        | ::,sigma::{U+03A3}    | Σ         | ✔         |
+| ,tau          | ::,tau::{U+03A4}      | Τ         | ✔         |
+| ,upsilon      | ::,upsilon::{U+03A5}  | Υ         | ✔         |
+| ,phi          | ::,phi::{U+03A6}      | Φ         | ✔         |
+| ,chi          | ::,chi::{U+03A7}      | Χ         | ✔         |
+| ,psi          | ::,psi::{U+03A8}      | Ψ         | ✔         |
+| ,omega        | ::,omega::{U+03A9}    | Ω         | ✔         |
+| ,stigma       | ::,stigma::{U+03BB}   | ϛ         | Commented |
+| ,digamma      | ::,digamma::{U+03BD}  | ϝ         | Commented |
+| ,koppa        | ::,koppa::{U+03BF}    | ϟ         | Commented |
+| ,sampi        | ::,sampi::{U+03C1}    | ϡ         | Commented |
+| ,sho          | ::,sho::{U+03D8}      | ϸ         | Commented |
+| ,san          | ::,san::{U+03DB}      | ϻ         | Commented |
 
 <h3>Greek Capital letters</h3>
 
