@@ -4,10 +4,10 @@
 <h3>Starting point</h3>
 <p align="justify">
     When I started to mess with 60% keyboards I figure needed a way to keep using some keys from full-size that where not present in 60% layouts, some times said keyboards don't have a PrtSc key and some other useful stuff. First solutio6to this proble would be using a full-size Keyboard instead but I needed to travel with it, second solution is using QMK to set the needed keys to a macro but the butget keyboard that I got does not support QMK, so the best solution for me was AHK.
-</p>*
+</p>
 <p align="justify">
     I had some experience using AHK for productivity on big keyboards by simplifying shortcuts, this time the intended thing was the opposite, creating shortcuts for the actuation on a single key. when I got it to work them started to experiment with other productivity problems, those solutions are being displayed in the repository. Main.ahk is the current set in use
-</p>*
+</p>
 
 
 
