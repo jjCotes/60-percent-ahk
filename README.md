@@ -108,7 +108,10 @@
 | .+-              | `::.+-::{U+00B1}`              | ±         | ✔      |
 
 
-
+<h2 align="center">ES_Support-to_EN.ahk</h2>
+<p align="justify"> 
+    This code creates a shortcut for some especial characters for Spanish and French get the keyboard language is set to English, on Spanish the short cut work with Alt + C or N for ç and ñ respectively, on French the shortcut consist of writting dot or coma followed by a vowel and an exponetial [.a^ ]
+</p>
 
 
 
