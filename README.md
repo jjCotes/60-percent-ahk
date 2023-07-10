@@ -16,7 +16,7 @@
 | Why AHK       | <sub>Taran Van Hemert's introduction to AHK</sub> | <a href="https://youtu.be/Arn8ExQ2Gjg">[link]</a>                        |
 | Main page     | <sub>autohotkey.com</sub>                         | <a href="https://www.autohotkey.com">[link]</a>                          |
 | Download      | <sub>Installer</sub>                              | <a href="https://www.autohotkey.com/download/ahk-install.exe">[link]</a> |
-| Documentation | <sub>Beggining tutorial</sub>                     | <a href="https://www.autohotkey.com/docs/v1/Tutorial.htm">[link]</a>     |
+| Documentation | <sub>Beginner tutorial</sub>                      | <a href="https://www.autohotkey.com/docs/v1/Tutorial.htm">[link]</a>     |
 
 <p>
     Scrips in this repository are intented for AHK v1 <a href="https://www.autohotkey.com/download/ahk-install.exe">[Downlaod link]</a>
