@@ -1,7 +1,5 @@
 <h1 align="center">AHK-helper</h1>
-<p align="right">
-    <a href="https://www.instagram.com/jj_cotes/"><strong>José J. Cotes A.</strong></a> <!--https://github.com/jjCotes/-->
-</p>
+<p align="right"><a href="https://www.instagram.com/jj_cotes/"><strong>José J. Cotes A.</strong></a> <!--https://github.com/jjCotes/--></p>
 <p>
     This repository works as a cache for AutoHotKey scripts that are used mostly on a 60% keyboard that has no support for QMK, Main.ahk is the current setup in use 
 </p>
@@ -192,7 +190,7 @@
 
 
 <h2 align="center">Macro helpers outside of AHK</h2>
-- <p><a href="https://learn.microsoft.com/en-us/windows/powertoys/"><strong>Power Toys</strong></a></p> 
+<p><a href="https://learn.microsoft.com/en-us/windows/powertoys/"><strong>Power Toys</strong></a>   <a href="https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD">[Store page]</a></p> 
 
 
 
