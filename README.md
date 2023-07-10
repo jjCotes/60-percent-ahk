@@ -19,7 +19,7 @@
 | Documentation | <sub>Beginner tutorial</sub>                      | <a href="https://www.autohotkey.com/docs/v1/Tutorial.htm">[link]</a>     |
 
 <p>
-    Scrips in this repository are intented for AHK v1 <a href="https://www.autohotkey.com/download/ahk-install.exe">[Downlaod link]</a>
+    Scrips in this repository are intented for AHK v1
 </p>
 
 
