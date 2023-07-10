@@ -20,7 +20,7 @@
     Scrips in this repository are intented for AHK v1
 </p>
 
-`Win` + `R` **Startup folder:** `shell:startup`
+**Startup folder:** `Win` + `R` | `shell:startup`
 
 
 
