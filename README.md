@@ -11,12 +11,12 @@
     If you ask something like "can I program something in AHK that...?" probably the answer is yes
 </p>
 
-| Matter        | Description                                   | link                                                                     |
-| ------------- | --------------------------------------------- | ------------------------------------------------------------------------ |
-| Why AHK       | Taran Van Hemert from LTT introduction to AHK | <a href="https://youtu.be/Arn8ExQ2Gjg">[link]</a>                        |
-| Main page     | autohotkey.com                                | <a href="https://www.autohotkey.com">[link]</a>                          |
-| Download      | Installer                                     | <a href="https://www.autohotkey.com/download/ahk-install.exe">[link]</a> |
-| Documentation | Beggining tutorial                            | <a href="https://www.autohotkey.com/docs/v1/Tutorial.htm">[link]</a>     |
+| Matter        | Description                                              | link                                                                     |
+| ------------- | -------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Why AHK       | <sub>Taran Van Hemert from LTT introduction to AHK</sub> | <a href="https://youtu.be/Arn8ExQ2Gjg">[link]</a>                        |
+| Main page     | <sub>autohotkey.com</sub>                                | <a href="https://www.autohotkey.com">[link]</a>                          |
+| Download      | <sub>Installer</sub>                                     | <a href="https://www.autohotkey.com/download/ahk-install.exe">[link]</a> |
+| Documentation | <sub>Beggining tutorial</sub>                            | <a href="https://www.autohotkey.com/docs/v1/Tutorial.htm">[link]</a>     |
 
 <p>
     Scrips in this repository are intented for AHK v1 <a href="https://www.autohotkey.com/download/ahk-install.exe">[Downlaod link]</a>
