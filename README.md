@@ -6,7 +6,7 @@
 
 <h3>About AutoHotKey</h3>
 <p>
-    If you ask something like "can I program something in AHK that...?" probably the answer is yes
+    If you ask something like "Can I write a script on AHK that...?" probably the answer is yes
 </p>
 
 | Matter        | Description                                       | link                                                                     |
