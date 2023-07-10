@@ -1,13 +1,19 @@
 <h1 align="center">AHK-helper</h1>
 <p align="right"><a href="https://www.instagram.com/jj_cotes/"><strong>José J. Cotes A.</strong></a> <!--https://github.com/jjCotes/--></p>
-<p>
-    This repository works as a cache for AutoHotKey scripts that are used mostly on a 60% keyboard that has no support for QMK, Main.ahk is the current setup in use 
-</p>
+
+<h3>Starting point</h3>
+<p align="justify">
+    When I started to mess with 60% keyboards I figure needed a way to keep using some keys from full-size that where not present in 60% layouts, some times said keyboards don't have a PrtSc key and some other useful stuff. First solutio6to this proble would be using a full-size Keyboard instead but I needed to travel with it, second solution is using QMK to set the needed keys to a macro but the butget keyboard that I got does not support QMK, so the best solution for me was AHK.
+</p>*
+<p align="justify">
+    I had some experience using AHK for productivity on big keyboards by simplifying shortcuts, this time the intended thing was the opposite, creating shortcuts for the actuation on a single key. when I got it to work them started to experiment with other productivity problems, those solutions are being displayed in the repository. Main.ahk is the current set in use
+</p>*
+
+
 
 <h3>About AutoHotKey</h3>
-<p>
-    If you ask something like "Can I write a script on AHK that...?" probably the answer is yes
-</p>
+If you ask something like "Can I write a script on AHK that...?" probably the answer is yes
+
 
 | Matter        | Description                                       | link                                                                     |
 | ------------- | ------------------------------------------------- | ------------------------------------------------------------------------ |
@@ -16,9 +22,7 @@
 | Download      | <sub>Installer</sub>                              | <a href="https://www.autohotkey.com/download/ahk-install.exe">[link]</a> |
 | Documentation | <sub>Beginner tutorial</sub>                      | <a href="https://www.autohotkey.com/docs/v1/Tutorial.htm">[link]</a>     |
 
-<p>
-    Scrips in this repository are intented for AHK v1
-</p>
+Scrips in this repository are intented for AHK v1
 
 **Startup folder:** `Win` + `R` | `shell:startup`
 
