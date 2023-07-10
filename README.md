@@ -191,7 +191,7 @@
 
 <h2 align="center">Macro helpers outside of AHK</h2>
 <p><a href="https://learn.microsoft.com/en-us/windows/powertoys/"><strong>Power Toys</strong></a>   <a href="https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD">[Store page]</a></p> 
-
+<p><a href="https://stefansundin.github.io/altdrag/"><strong>Alt+Drag</strong></a>
 
 
 
