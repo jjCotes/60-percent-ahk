@@ -57,7 +57,7 @@
 | ,alpha        | `::,alpha::{U+0391}`   | Α         | ✔      |
 | ,beta         | `::,beta::{U+0392}`    | β         | ✔      |
 | ,gamma        | `::,gamma::{U+0393}`   | Γ         | ✔      |
-| ,delta        | `::,delta::{U+0394}    | Δ         | ✔      |
+| ,delta        | `::,delta::{U+0394}`   | Δ         | ✔      |
 | ,epsilon      | `::,epsilon::{U+0395}` | Ε         | ✔      |
 | ,zeta         | `::,zeta::{U+0396}`    | Ζ         | ✔      |
 | ,eta          | `::,eta::{U+0397}`     | Η         | ✔      |
