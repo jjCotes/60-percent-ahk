@@ -191,7 +191,8 @@
 
 
 
-
+<h2 align="center">Macro helpers outside of AHK</h2>
+- <p><a href="https://learn.microsoft.com/en-us/windows/powertoys/"><strong>Power Toys</strong></a></p> 
 
 
 
