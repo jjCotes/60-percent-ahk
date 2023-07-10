@@ -58,7 +58,7 @@
 <p align="justify"> 
     This code creates a shortcut for every greek letter and some useful mathematical simbols. For greek letter the shortcut cosinste in writing a dot next the name of the letter [.alpha ] and a coma for capital letters [,alpha ]. for mathematical simbols some of the shortcuts are a dot followed by the name [.naturalnumbers ] and in some cases a dot followed by a convination con simbols [.!= ]
 </p>
-<p align="rigth">
+<p align="right">
     <a href="https://youtu.be/jXgzQpJc14M">[Original idea]</a>
 </p>
 
