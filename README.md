@@ -6,7 +6,7 @@
     This repository works as a cache for AutoHotKey scripts that are used mostly on a 60% keyboard that has no support for QMK, Main.ahk is the current setup in use 
 </p>
 
-<h3 align="center">About AutoHotKey</h3>
+<h3>About AutoHotKey</h3>
 <p>
     If you ask something like "can I program something in AHK that...?" probably the answer is yes
 </p>
