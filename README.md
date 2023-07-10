@@ -6,6 +6,37 @@
     This repository works as a cache for AutoHotKey scripts that are used mostly on a 60% keyboard that has no support for QMK, Main.ahk is the current setup in use 
 </p>
 
+<h3 align="center">About AutoHotKey</h2>
+
+<p>
+    If you ask something like "can I program something in AutoHotKey that...?" probably the answer is yes
+</p>
+<p>
+    Scrips in this repository are intented for AutoHotKey v1 <a href="https://www.autohotkey.com/download/ahk-install.exe">[Downlaod link]</a> 
+</p>
+
+
+<h2 align="center">MediaNav.ahk</h2>
+<p align="justify"> 
+    This code creates shortcuts for some Multimedia Keyfuntions using a convination of the AppsKey and some others
+</p>
+
+| Shortcut        | Line of Code                            | Action        | Status |
+| --------------- | --------------------------------------- | ------------- | ------ |
+| `AppsKey` + `,` | `AppsKey & ,:: Send {<}`                | `<`           | ✔      |
+| `AppsKey` + `-` | `AppsKey & .:: Send {>}`                | `>`           | ✔      |
+| `AppsKey` + `s` | `AppsKey & s:: Send {PrintScreen}`      | `PrtSc`       | ✔      |
+| `AppsKey` + `b` | `AppsKey & b:: Send {Volume_Up}`        | `Volume_Up`   | ✔      |
+| `AppsKey` + `v` | `AppsKey & v:: Send {Volume_Down}`      | `Volume_Down` | ✔      |
+| `AppsKey` + `-` | `AppsKey & -:: Send {Media_Play_Pause}` | `Play_Pause`  | ✔      |
+
+
+<h2 align="center">Numpad+.ahk</h2>
+<p align="justify"> 
+    This code creates shortcuts for better navigation using the Numpad on a full-size keyboard 
+</p>
+
+
 
 <h2 align="center">Character_Helper.ahk</h2>
 <p align="justify"> 
@@ -48,8 +79,6 @@
 | .san          | `::.san::{U+03FB}`     | ϻ         | ❌     |
 
 
-
-
 <h3>Greek Capital letters</h3>
 
 | Shortcut      | Line of Code           | Character | Status |
@@ -85,6 +114,7 @@
 | ,sho          | `::,sho::{U+03D8}`     | ϸ         | ❌     |
 | ,san          | `::,san::{U+03DB}`     | ϻ         | ❌     |
 
+
 <h3>Greek Capital letters</h3>
 
 | Shortcut         | Line of Code                   | Character | Status |
@@ -110,8 +140,35 @@
 
 <h2 align="center">ES_Support-to_EN.ahk</h2>
 <p align="justify"> 
-    This code creates a shortcut for some especial characters for Spanish and French get the keyboard language is set to English, on Spanish the short cut work with Alt + C or N for ç and ñ respectively, on French the shortcut consist of writting dot or coma followed by a vowel and an exponetial [.a^ ]
+    This code creates shortcuts for some especial characters for Spanish and French get the keyboard language is set to English, on Spanish the short cut work with Alt + C or N for ç and ñ respectively, on French the shortcut consist of writting dot or coma followed by a vowel and an exponetial [.a^ ]
 </p>
+
+<h3>Spanish charaters</h3>
+
+| Shortcut              | Line of Code                   | Character | Status |
+| --------------------- | ------------------------------ | --------- | ------ |
+| `Alt` + `c`           | `!c:: Send {U+00E7}`           | ç         | ✔      |
+| `Alt` + `Shift` + `c` | `!+c:: Send {U+00C7}`          | Ç         | ✔      |
+| `Alt` + `n`           | `!n:: Send {U+00F1}`           | ñ         | ✔      |
+| `Alt` + `Shift` + `n` | `!+n:: Send {U+00D1}`          | Ñ         | ✔      |
+
+
+<h3>French charaters</h3>
+
+| Shortcut | Line of Code                   | Character | Status |
+| -------- | ------------------------------ | --------- | ------ |
+| .a^      | `::.a^::{U+00E2}`              | â         | ✔      |
+| ,a^      | `::,a^::{U+00C2}`              | Â         | ✔      |
+| .e^      | `::.e^::{U+00EA}`              | ê         | ✔      |
+| ,e^      | `::,e^::{U+00CA}`              | Ê         | ✔      |
+| .i^      | `::.i^::{U+00EE}`              | î         | ✔      |
+| ,i^      | `::,i^::{U+00CE}`              | Î         | ✔      |
+| .o^      | `::.o^::{U+00F4}`              | ô         | ✔      |
+| ,o^      | `::,o^::{U+00D4}`              | Ô         | ✔      |
+| .u^      | `::.u^::{U+00FB}`              | û         | ✔      |
+| ,u^      | `::,u^::{U+00DB}`              | Û         | ✔      |
+
+
 
 
 
