@@ -10,15 +10,15 @@ SendMode Input
 !+n:: Send {U+00D1} ;            Ç
 
 ; French charaters ---------------
-AppsKey & a:: Send {U+00E2} ;    â
-AppsKey & z:: Send {U+00C2} ;    Â
-AppsKey & e:: Send {U+00EA} ;    ê
-AppsKey & d:: Send {U+00CA} ;    Ê
-AppsKey & i:: Send {U+00EE} ;    î
-AppsKey & k:: Send {U+00CE} ;    Î
-AppsKey & o:: Send {U+00F4} ;    ô
-AppsKey & l:: Send {U+00D4} ;    Ô
-AppsKey & u:: Send {U+00FB} ;    û
-AppsKey & j:: Send {U+00DB} ;    Û
+::.a^::{U+00E2} ;                â
+::,a^::{U+00C2} ;                Â 
+::.e^::{U+00EA} ;                ê
+::,e^::{U+00CA} ;                Ê  
+::.i^::{U+00EE} ;                î  
+::,i^::{U+00CE} ;                Î
+::.o^::{U+00F4} ;                ô
+::,o^::{U+00D4} ;                Ô
+::.u^::{U+00FB} ;                û
+::,u^::{U+00DB} ;                Û
 
 Return
