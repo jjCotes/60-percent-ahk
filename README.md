@@ -46,6 +46,10 @@
     This code creates shortcuts for better navigation using the Numpad on a full-size keyboard 
 </p>
 
+<div align="center">
+    <img src="Resource_Img/Numpad+.png", width="500">
+</div><br>
+
 
 
 <h2 align="center">Character_Helper.ahk</h2>
