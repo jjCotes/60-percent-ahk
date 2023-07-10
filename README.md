@@ -9,11 +9,21 @@
 <h3 align="center">About AutoHotKey</h2>
 
 <p>
-    If you ask something like "can I program something in AutoHotKey that...?" probably the answer is yes
+    If you ask something like "can I program something in AHK that...?" probably the answer is yes
 </p>
 <p>
-    Scrips in this repository are intented for AutoHotKey v1 <a href="https://www.autohotkey.com/download/ahk-install.exe">[Downlaod link]</a> 
+    Scrips in this repository are intented for AHK v1 <a href="https://www.autohotkey.com/download/ahk-install.exe">[Downlaod link]</a>
 </p>
+
+| Matter        | Description                             | link                                                                     |
+| ------------- | --------------------------------------- | ------------------------------------------------------------------------ |
+| Why AHK       | `AppsKey & ,:: Send {<}`                | <a href="https://youtu.be/Arn8ExQ2Gjg">[link]</a>                        |
+| Main page     | `AppsKey & ,:: Send {<}`                | <a href="https://www.autohotkey.com">[link]</a>                          |
+| Download      | `AppsKey & .:: Send {>}`                | <a href="https://www.autohotkey.com/download/ahk-install.exe">[link]</a> |
+| Documentation | `AppsKey & s:: Send {PrintScreen}`      | <a href="https://www.autohotkey.com/docs/v1/Tutorial.htm">[link]</a>     |
+| `AppsKey` +   | `AppsKey & b:: Send {Volume_Up}`        | `Volume_Up`   |
+| `AppsKey` +   | `AppsKey & v:: Send {Volume_Down}`      | `Volume_Down` |
+| `AppsKey` +   | `AppsKey & -:: Send {Media_Play_Pause}` | `Play_Pause`  |
 
 
 <h2 align="center">MediaNav.ahk</h2>
@@ -41,6 +51,9 @@
 <h2 align="center">Character_Helper.ahk</h2>
 <p align="justify"> 
     This code creates a shortcut for every greek letter and some useful mathematical simbols. For greek letter the shortcut cosinste in writing a dot next the name of the letter [.alpha ] and a coma for capital letters [,alpha ]. for mathematical simbols some of the shortcuts are a dot followed by the name [.naturalnumbers ] and in some cases a dot followed by a convination con simbols [.!= ]
+</p>
+<p align="rigth">
+    <a href="https://youtu.be/jXgzQpJc14M">[Original idea]</a>
 </p>
 
 <h3>Greek letters</h3>
