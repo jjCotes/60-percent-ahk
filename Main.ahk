@@ -27,10 +27,10 @@ AppsKey & v:: Send {Volume_Down} ;      |
 AppsKey & -:: Send {Media_Play_Pause} ; |
 
 ; Spanish charaters --------------
-!c:: Send {U+00E7} ;             ç
-!+c:: Send {U+00C7} ;            Ç
-!n:: Send {U+00F1} ;             ñ
-!+n:: Send {U+00D1} ;            Ñ
+<!c:: Send {U+00E7} ;             ç
+<!+c:: Send {U+00C7} ;            Ç
+<!n:: Send {U+00F1} ;             ñ
+<!+n:: Send {U+00D1} ;            Ñ
 
 ; French charaters ---------------
 ::.a^::{U+00E2} ;                â
@@ -129,7 +129,7 @@ AppsKey & -:: Send {Media_Play_Pause} ; |
 
 
 ; Program lauchers  ------------------------------------------
-#!s:: Run C:\Program Files\Sublime Text 3\sublime_text.exe ; |
+#<!s:: Run C:\Program Files\Sublime Text 3\sublime_text.exe ; |
 /*
 #!k:: ;                                                      |
 	IfWinExist, ahk_exe RGBFusion.exe ;                      |
