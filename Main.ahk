@@ -27,10 +27,17 @@ AppsKey & v:: Send {Volume_Down} ;      |
 AppsKey & -:: Send {Media_Play_Pause} ; |
 
 ; Spanish charaters --------------
-<!c:: Send {U+00E7} ;             ç
-<!+c:: Send {U+00C7} ;            Ç
-<!n:: Send {U+00F1} ;             ñ
-<!+n:: Send {U+00D1} ;            Ñ
+<!c:: Send {U+00E7} ;            ç
+<!+c:: Send {U+00C7} ;           Ç
+<!n:: Send {U+00F1} ;            ñ
+<!+n:: Send {U+00D1} ;           Ñ
+#if GetKeyState("CapsLock", "T") ; 
+	<!+c:: Send {U+00E7} ;   ç
+	<!c:: Send {U+00C7} ;    Ç
+	<!+n:: Send {U+00F1} ;   ñ
+	<!n:: Send {U+00D1} ;    Ñ
+#if ;                            |
+
 
 ; French charaters ---------------
 ::.a^::{U+00E2} ;                â
