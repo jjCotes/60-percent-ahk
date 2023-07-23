@@ -3,6 +3,15 @@
 SendMode Input
 #SingleInstance force
 
+Menu, Tray, NoStandard
+Menu, Tray, Add , Help, Hl
+Menu, Tray, Add , Stop, Ss
+Menu, Tray, Add , [F5], Rl
+Menu, Tray, Add , Exit, Ex
+Menu, Tray, Default, Exit
+Menu, Tray, Icon, Shifter_On.ico, , 1
+Return
+
 ; Greek letters  -----------------
 ::.alpha::{U+03B1} ;             ɑ
 ::.beta::{U+03B2} ;              β
@@ -85,4 +94,30 @@ SendMode Input
 ::.^=::{U+2213} ;                ≙  (U+2259)
 ::.?=::{U+225F} ;                ≟
 ::.+-::{U+00B1} ;                ± 
+
+
+Hl:
+	Run https://github.com/jjCotes/60-percent-ahk#character_helperahk
+Return
+
+F24:: ; Selected F24 because I dont need tha hotkey that hard
+	Suspend
+	GoTO refreshICON
+
+Ss:
+	Suspend, Toggle      
+	refreshICON:
+	If A_IsSuspended
+		Menu, Tray, Icon, Shifter_Off.ico
+	Else
+		Menu, Tray, Icon, Shifter_On.ico
+Return
+
+Ex:
+	ExitApp
+Return
+
+Rl:
+	Reload
+Return
 
