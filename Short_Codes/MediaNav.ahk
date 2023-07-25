@@ -1,7 +1,21 @@
-;#Persistent
+/*
+	    | Edit by jjCotes |
+	Date Of Last Edit: 24/Jul/2023
+	Source: https://github.com/jjCotes/60-percent-ahk
+	Needs UFT-8 with BOM: NO
+	Description:
+		This code creates shortcuts for some Multimedia Keyfuntions using a convination of the AppsKey and some others
+*/
+
+
+;--------------------    CODE STARTS HERE    --------------------
+
 #NoEnv
 SendMode Input
 #SingleInstance force
+
+FileCreateDir, C:\AHK macros\Assets ; For this two lines to work make sure 
+SetWorkingDir, C:\AHK macros\Assets ; to set the right path for your machine
 
 Menu, Tray, NoStandard
 Menu, Tray, Add , Help, Hl
@@ -9,6 +23,7 @@ Menu, Tray, Add , Stop, Ss
 Menu, Tray, Add , [F5], Rl
 Menu, Tray, Add , Exit, Ex
 Menu, Tray, Default, Exit
+Menu, Tray, Color, B0C4BE
 Menu, Tray, Icon, Shifter_On.ico, , 1
 Return
 
@@ -31,10 +46,14 @@ F24:: ; Selected F24 because I dont need tha hotkey that hard
 Ss:
 	Suspend, Toggle      
 	refreshICON:
-	If A_IsSuspended
+	If A_IsSuspended {
+		Menu, Tray, Check, Stop
 		Menu, Tray, Icon, Shifter_Off.ico
-	Else
+	}
+	Else {
+		Menu, Tray, UnCheck, Stop
 		Menu, Tray, Icon, Shifter_On.ico
+	}
 Return
 
 Ex:

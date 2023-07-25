@@ -1,4 +1,20 @@
-;#Persistent
+/*
+	    | Edit by jjCotes |
+	Date Of Last Edit: 25/Jul/2023
+	Source: https://github.com/jjCotes/60-percent-ahk
+	Needs UFT-8 with BOM: NO
+	Description:
+		This code creates a shortcut for every greek letter and some useful 
+		mathematical simbols. For greek letter the shortcut consist in writing 
+		a dot next the name of the letter [ .alpha ] and a coma for capital 
+		letters [ ,alpha ]. For mathematical simbols some of the shortcuts are 
+		a dot followed by the name [ .naturalnumbers ] and in some cases a dot 
+		followed by a convination con simbols [ .!= ]		
+*/
+
+
+;--------------------    CODE STARTS HERE    --------------------
+
 #NoEnv
 SendMode Input
 #SingleInstance force
