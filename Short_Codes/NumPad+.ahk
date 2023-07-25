@@ -41,7 +41,7 @@ Menu, Tray, Color, B0C4BE
 Menu, Tray, Icon, Numpad+_On.ico, , 1
 
 Hl:
-	Gui, Show, x70 y700 w274 h332, Key Map
+	Gui, Show, x70 y700, Key Map
 	While (!GetKeyState("Esc"))
 		Continue
 	Gui, Hide

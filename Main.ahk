@@ -20,10 +20,19 @@ FileCreateDir, C:\AHK macros\Assets ; For this two lines to work make sure
 SetWorkingDir, C:\AHK macros\Assets ; to set the right path for your machine
 
 
+;---------- GUI LayOut - Help ----------
+
+Gui +Resize +OwnDialogs +LastFound +AlwaysOnTop -Caption +Border +MinSizew820x307 -DPIScale, ;-SysMenu +Icon %C:\AHK macros\Assets%
+Gui, Add, Picture, w830 h290, KB-60-SpLayOut.png
+Gui, Color, 373F3C
+; gui, Submit, NoHide, hwndhwnd 0xE ; No effect
+
+
 ;---------- Menu Setup ----------
 
 Menu, Tray, NoStandard
 Menu, Tray, Add , Help, Hl
+Menu, Tray, Add , SP LayOut, Ly
 Menu, Tray, Add , Toggle, Ss
 ;Menu, Tray, Add , Pause, Ps
 Menu, Tray, Add , [F5], Rl
@@ -36,6 +45,13 @@ Return
 
 Hl:
 	Run https://github.com/jjCotes/60-percent-ahk#medianavahk
+Return
+
+Ly:
+	Gui, Show, x70 y700, Spanish LayOut
+	While (!GetKeyState("Esc"))
+		Continue
+	Gui, Hide
 Return
 
 /*   ; Pause menu item
@@ -223,7 +239,8 @@ AppsKey & -:: Send {Media_Play_Pause} ; |
 
 ;---------- Program Teak ----------
 
-#<!s:: Run C:\Program Files\Sublime Text 3\sublime_text.exe 
+#<!s:: Run, C:\Program Files\Sublime Text 3\sublime_text.exe 
+#<!q:: Run, KB_tester.txt
 
 /*
 While (!GetKeyState("CtrlL"))
