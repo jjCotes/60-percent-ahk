@@ -6,7 +6,7 @@
     When I started to mess with 60% keyboards I figure needed a way to keep using some keys from full-size that where not present in 60% layouts, some times said keyboards don't have a PrtSc key and some other useful stuff. First solutio6to this proble would be using a full-size Keyboard instead but I needed to travel with it, second solution is using QMK to set the needed keys to a macro but the butget keyboard that I got does not support QMK, so the best solution for me was AHK.
 </p>
 <p align="justify">
-    I had some experience using AHK for productivity on big keyboards by simplifying shortcuts, this time the intended thing was the opposite, creating shortcuts for the actuation ofa single key. when I got it to work them started to experiment with other productivity problems, those solutions are being displayed in the repository. Main.ahk is the current set in use
+    I had some experience using AHK for productivity on big keyboards by simplifying shortcuts, this time the intended thing was the opposite, creating shortcuts for the actuation of a single key. When I got it to work them started to experiment with other productivity problems, those solutions are being displayed in the repository. Main.ahk is the current set in use
 </p>
 
 
@@ -60,7 +60,7 @@ Scrips in this repository are intented for AHK v1
 
 <h2 align="center">Character_Helper.ahk</h2>
 <p align="justify"> 
-    This code creates a shortcut for every greek letter and some useful mathematical simbols. For greek letter the shortcut cosinste in writing a dot next the name of the letter [ .alpha ] and a coma for capital letters [ ,alpha ]. for mathematical simbols some of the shortcuts are a dot followed by the name [ .naturalnumbers ] and in some cases a dot followed by a convination con simbols [ .!= ]
+    This code creates a shortcut for every greek letter and some useful mathematical simbols. For greek letter the shortcut consist in writing a dot next the name of the letter [ .alpha ] and a coma for capital letters [ ,alpha ]. For mathematical simbols some of the shortcuts are a dot followed by the name [ .naturalnumbers ] and in some cases a dot followed by a convination con simbols [ .!= ]
 </p>
 <p align="right">
     <a href="https://youtu.be/jXgzQpJc14M">[Original idea]</a>
@@ -165,7 +165,7 @@ Scrips in this repository are intented for AHK v1
 
 <h2 align="center">ES_Support-to_EN.ahk</h2>
 <p align="justify"> 
-    This code creates shortcuts for some especial characters for Spanish and French get the keyboard language is set to English, on Spanish the short cut work with `Alt` + `C` or `N` for `Ç` and `Ñ` respectively, on French the shortcut consist of writting dot or coma followed by a vowel and an exponetial [ .a^ ]
+    This code creates shortcuts for some especial characters for Spanish and French when the keyboard language is set to English, on Spanish the short cut work with `Alt` + `C` or `N` for `Ç` and `Ñ` respectively, on French the shortcut consist of writting dot or coma followed by a vowel and an exponetial [ .a^ ]
 </p>
 
 <h3>Spanish charaters</h3>
