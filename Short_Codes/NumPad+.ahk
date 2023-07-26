@@ -13,7 +13,6 @@
 #NoEnv
 SendMode Input
 #SingleInstance force
-global Classic:=0, ColorSet:=[]
 
 FileCreateDir, C:\AHK macros\Assets ; For this two lines to work make sure 
 SetWorkingDir, C:\AHK macros\Assets ; to set the right path for your machine
@@ -24,7 +23,7 @@ SetWorkingDir, C:\AHK macros\Assets ; to set the right path for your machine
 ;---------- GUI LayOut - Help ----------
 
 Gui +Resize +OwnDialogs +LastFound +AlwaysOnTop -Caption +Border +MinSize274x332 -DPIScale, ;-SysMenu +Icon %C:\AHK macros\Assets%
-Gui, Add, Picture, , Numpad+_2.png
+Gui, Add, Picture,  w830 h290, Numpad+_3.png
 Gui, Color, 373F3C
 ; gui, Submit, NoHide, hwndhwnd 0xE ; No effect
 
@@ -41,7 +40,7 @@ Menu, Tray, Color, B0C4BE
 Menu, Tray, Icon, Numpad+_On.ico, , 1
 
 Hl:
-	Gui, Show, x70 y700, Key Map
+	Gui, Show, x70 y742, Key Map
 	While (!GetKeyState("Esc"))
 		Continue
 	Gui, Hide

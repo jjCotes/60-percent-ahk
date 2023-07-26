@@ -52,7 +52,7 @@ Scrips in this repository are intented for AHK v1
 </p>
 
 <div align="center">
-    <img src="Assets/Numpad+_1.png", width="350">
+    <img src="Assets/Numpad+_3.png", width="350">
 </div><br>
 
 
