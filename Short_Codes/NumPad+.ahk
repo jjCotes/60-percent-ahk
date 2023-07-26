@@ -22,8 +22,8 @@ SetWorkingDir, C:\AHK macros\Assets ; to set the right path for your machine
 
 ;---------- GUI LayOut - Help ----------
 
-Gui +Resize +OwnDialogs +LastFound +AlwaysOnTop -Caption +Border +MinSize274x332 -DPIScale, ;-SysMenu +Icon %C:\AHK macros\Assets%
-Gui, Add, Picture,  w830 h290, Numpad+_3.png
+Gui +Resize +OwnDialogs +LastFound +AlwaysOnTop -Caption +Border +MinSize256x307 -DPIScale, ;-SysMenu +Icon %C:\AHK macros\Assets%
+Gui, Add, Picture,  w236 h290, Numpad+_3.png
 Gui, Color, 373F3C
 ; gui, Submit, NoHide, hwndhwnd 0xE ; No effect
 
