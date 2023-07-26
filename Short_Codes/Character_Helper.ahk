@@ -19,13 +19,17 @@
 SendMode Input
 #SingleInstance force
 
+FileCreateDir, C:\AHK macros\Assets ; For this two lines to work make sure 
+SetWorkingDir, C:\AHK macros\Assets ; to set the right path for your machine
+
 Menu, Tray, NoStandard
 Menu, Tray, Add , Help, Hl
 Menu, Tray, Add , Stop, Ss
 Menu, Tray, Add , [F5], Rl
 Menu, Tray, Add , Exit, Ex
 Menu, Tray, Default, Exit
-Menu, Tray, Icon, Shifter_On.ico, , 1
+Menu, Tray, Color, B0C4BE
+Menu, Tray, Icon, charHelper_On.ico, , 1
 Return
 
 ; Greek letters  -----------------
@@ -123,10 +127,14 @@ F24:: ; Selected F24 because I dont need tha hotkey that hard
 Ss:
 	Suspend, Toggle      
 	refreshICON:
-	If A_IsSuspended
-		Menu, Tray, Icon, Shifter_Off.ico
-	Else
-		Menu, Tray, Icon, Shifter_On.ico
+	If A_IsSuspended {
+		Menu, Tray, Check, Stop
+		Menu, Tray, Icon, charHelper_Off.ico
+	}
+	Else {
+		Menu, Tray, UnCheck, Stop
+		Menu, Tray, Icon, charHelper_On.ico
+	}
 Return
 
 Ex:
@@ -136,4 +144,3 @@ Return
 Rl:
 	Reload
 Return
-

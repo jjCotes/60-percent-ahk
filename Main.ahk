@@ -48,7 +48,7 @@ Hl:
 Return
 
 Ly:
-	Gui, Show, x70 y700, Spanish LayOut
+	Gui, Show, x70 y742, Spanish LayOut
 	While (!GetKeyState("Esc"))
 		Continue
 	Gui, Hide
