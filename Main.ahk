@@ -1,6 +1,6 @@
 /*
 	    | Edit by jjCotes |
-	Date Of Last Edit: 24/Jul/2023
+	Date Of Last Edit: 01/Aug/2023
 	Source: https://github.com/jjCotes/60-percent-ahk
 	Needs UFT-8 with BOM: YES
 	Description:
@@ -38,7 +38,7 @@ Menu, Tray, Add , Toggle, Ss
 Menu, Tray, Add , [F5], Rl
 Menu, Tray, Add , Exit, Ex
 Menu, Tray, Default, Exit
-Menu, Tray, Color, B0C4BE
+Menu, Tray, Color, 373F3C ; Color change por personal use. Intended color for non mod OS: B0C4BE
 Menu, Tray, Icon, Shifter_On.ico, , 1
 
 Return
