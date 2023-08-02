@@ -28,7 +28,7 @@ Gui, Color, 373F3C
 ; gui, Submit, NoHide, hwndhwnd 0xE ; No effect
 
 
-;---------- Menu Setup ----------
+;---------- Menu Setup ---------- This UI is intended for a Mod OS, specifically Rectify11
 
 Menu, Tray, NoStandard
 Menu, Tray, Add , Help, Hl
@@ -38,7 +38,7 @@ Menu, Tray, Add , Toggle, Ss
 Menu, Tray, Add , [F5], Rl
 Menu, Tray, Add , Exit, Ex
 Menu, Tray, Default, Exit
-Menu, Tray, Color, 373F3C ; Color change por personal use. Intended color for non mod OS: B0C4BE
+Menu, Tray, Color, 373F3C ; Intended color for non mod OS: B0C4BE
 Menu, Tray, Icon, Shifter_On.ico, , 1
 
 Return
